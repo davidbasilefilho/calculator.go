@@ -1,5 +1,5 @@
 BIN_DIR := ./bin
-OUTPUT_BIN := $(BIN_DIR)/myapp
+OUTPUT_BIN := $(BIN_DIR)/calculator-go
 
 GO_FILE := main.go
 

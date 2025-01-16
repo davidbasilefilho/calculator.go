@@ -1,0 +1,29 @@
+@document.meta
+title: README
+description: 
+authors: David Basile Filho
+categories: [
+  go
+  learn
+]
+created: 2025-01-16T18:12:36-0300
+updated: 2025-01-16T18:17:23-0300
+version: 1.1.1
+@end
+
+* `calculator.go`
+  A simple calculator made to learn Go!
+
+** Dependencies
+   - `go` compiler
+   - GNU `make`
+
+** Run program
+   @code bash
+   go run main.go
+   @end
+
+** Build program
+   @code bash
+   make build
+   @end
