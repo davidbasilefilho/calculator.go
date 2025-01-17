@@ -7,7 +7,7 @@ categories: [
   learn
 ]
 created: 2025-01-16T18:12:36-0300
-updated: 2025-01-16T18:17:23-0300
+updated: 2025-01-17T09:03:56-0300
 version: 1.1.1
 @end
 
@@ -26,4 +26,9 @@ version: 1.1.1
 ** Build program
    @code bash
    make build
+   @end
+
+** Clean `bin` directory
+   @code bash
+   make clean
    @end

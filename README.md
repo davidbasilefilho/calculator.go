@@ -25,3 +25,10 @@ go run main.go
 ```bash
 make build
 ```
+
+
+## Clean `bin` directory
+
+```bash
+make clean
+```
